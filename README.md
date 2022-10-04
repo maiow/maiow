@@ -2,7 +2,7 @@
 - 👀 I’m interested in Kotlin Android mobile development
 - 🌱 I’m currently learning on Android-developer course
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Telegram: https://t.me/imaiow, mailto:emmaria@yandex.ru
+- 📫 How to reach me: Telegram: https://t.me/imaiow
 
 <!---
 maiow/maiow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
