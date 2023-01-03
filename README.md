@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maiow - Maria Ivanovskaya
-- 👀 I’m interested in Kotlin Android mobile development
-- 🌱 I’m currently learning on Android-developer course
+- 👀 I’m interested in Kotlin Android mobile apps development
+- 🌱 I’m currently learning on Android developer course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Telegram: https://t.me/imaiow
 
