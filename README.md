@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @maiow - Maria Ivanovskaya
-- 👀 I’m interested in Kotlin Android mobile apps development
-- 🌱 I’m currently learning on Android developer course
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Telegram: https://t.me/imaiow
+- 🌱 I’m finishing my studies at the Android developer course, working on last project with Reddit API now
+- 💞️ I’m looking to collaborate on anything related to Android mobile apps development
+- 📫 How to reach me: Telegram: https://t.me/imaiow Email: emmaria@yandex.ru
 
 <!---
 maiow/maiow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
