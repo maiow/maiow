@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!--div id="header" align="center">
   <img src="https://media.giphy.com/media/gINV2UOvgvJ4KBOWBL/giphy.gif" width="100"/>
-</div>
+</div-->
 <div id="badges"  align="center">
   <img src=https://img.shields.io/badge/Telegram-%40imaiow-blue?logo=telegram alt="Telegram Badge"/>
   <img src=https://img.shields.io/badge/@E--mail-emmaria%40yandex.ru-darkgreen alt="E-mail Badge"/>
