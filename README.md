@@ -10,7 +10,7 @@
 </div>  
 
 - 👋 Hi, I’m an Android mobile apps developer from Russia. Open to work.
-- 🌱 Currently coding a nice pet-project in the team of developers /mobile application for a dog shelter/. 
+- 🌱 Currently leading and coding a nice project in the team of developers /mobile application + back-end for a dog shelter/. 
 - :telescope: My free time is dedicated to my dev skills improvement, my family and 🐶 
 - 📫 How to reach me: Telegram: https://t.me/imaiow Email: emmaria@yandex.ru
 
