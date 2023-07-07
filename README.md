@@ -6,7 +6,7 @@
   <img src=https://img.shields.io/badge/@E--mail-emmaria%40yandex.ru-darkgreen alt="E-mail Badge"/>
 </div>
 
-- 👋 Hi, I’m a Product lead & Android mobile apps developer from Russia. Open to work.
+- 👋 Hi, I’m a Product lead & Android mobile apps developer. Open to work.
 - 🌱 Currently leading and coding a nice project in the team of developers /mobile application + backend for a dog shelter/. 
 - :telescope: My free time is dedicated to my dev skills improvement, my family and 🐶 
 - 📫 How to reach me: Telegram: https://t.me/imaiow Email: emmaria@yandex.ru
