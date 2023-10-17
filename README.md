@@ -11,7 +11,11 @@
 - :telescope: My free time is dedicated to my dev skills improvement, my family and 🐶 
 - 📫 How to reach me: Telegram: https://t.me/imaiow Email: emmaria@yandex.ru
 
+[![maiow's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiow&count_private=true&layout=compact&show_icons=true&hide_border=true)](https://github.com/maiow/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiow&count_private=true&hide=ruby&hide_border=true)](https://github.com/maiow/github-readme-stats)
+
+
 <!---
 maiow/maiow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 --->
