@@ -6,10 +6,10 @@
   <img src=https://img.shields.io/badge/@E--mail-emmaria%40yandex.ru-darkgreen alt="E-mail Badge"/>
 </div>
 
-- 👋 Hi, I’m a Product lead & Android mobile apps developer. Open to work.
-- 🌱 Currently leading and coding a nice project in the team of developers /mobile application + backend for a dog shelter/. 
-- :telescope: My free time is dedicated to my dev skills improvement, my family and 🐶 
-- 📫 How to reach me: Telegram: https://t.me/imaiow Email: emmaria@yandex.ru
+- 👋 Hi, I’m a Product lead & mobile apps developer.
+- 🌱 Currently leading and coding a nice team project: mobile application + backend for a dog shelter. https://play.google.com/store/apps/details?id=com.redpine.dogshelter
+- :telescope: My free time is dedicated to my dev skills improvement, my family and 🐶
+- 📫 How to reach me: emmaria@yandex.ru
 
 [![maiow's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiow&count_private=true&layout=compact&show_icons=true&hide_border=true)](https://github.com/maiow/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiow&count_private=true&hide=ruby&hide_border=true)](https://github.com/maiow/github-readme-stats)
 
