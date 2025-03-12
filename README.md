@@ -6,8 +6,8 @@
   <img src=https://img.shields.io/badge/@E--mail-emmaria%40yandex.ru-darkgreen alt="E-mail Badge"/>
 </div>
 
-- 👋 Hi, I’m a Product lead & mobile apps developer.
-- 💖 Leading and coding a nice team project: mobile application + backend for a dog shelter. https://play.google.com/store/apps/details?id=com.redpine.dogshelter
+- 👋 Hi, I’m a mobile apps developer
+- 💖 Supporting a nice mobile application + backend for a dog shelter. https://play.google.com/store/apps/details?id=com.redpine.dogshelter
 - 🌱 Currently studying OpSys with UC Berkeley CS 162: Operating Systems and System Programming
 - :telescope: My free time is dedicated to my dev skills improvement, my family and 🐶
 <!--- 📫 How to reach me: emmaria@yandex.ru-->
