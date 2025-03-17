@@ -7,9 +7,8 @@
 </div>
 
 - 👋 Hi, I’m a mobile apps developer
-- 💖 Supporting a nice mobile application + backend for a dog shelter. https://play.google.com/store/apps/details?id=com.redpine.dogshelter
 - 🌱 Currently studying OpSys with UC Berkeley CS 162: Operating Systems and System Programming
-- :telescope: My free time is dedicated to my dev skills improvement, my family and 🐶
+- 💖 My free time is dedicated to: my dev experiments, support of https://play.google.com/store/apps/details?id=com.redpine.dogshelter, my family and 🐶
 <!--- 📫 How to reach me: emmaria@yandex.ru-->
 
 [![maiow's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiow&count_private=true&layout=compact&show_icons=true&hide_border=true)](https://github.com/maiow/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiow&count_private=true&hide=ruby&hide_border=true)](https://github.com/maiow/github-readme-stats)
