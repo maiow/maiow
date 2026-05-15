@@ -7,7 +7,7 @@
 </div>
 
 - 👋 Hi, I’m a mobile apps developer
-- 💖 My free time is dedicated to my dev experiments, family and 🐶
+- 💖 My free time is dedicated to my dev experiments & family
 <!--- 📫 How to reach me: emmaria@yandex.ru-->
 
 [![maiow's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiow&count_private=true&layout=compact&show_icons=true&hide_border=true)](https://github.com/maiow/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiow&count_private=true&hide=ruby&hide_border=true)](https://github.com/maiow/github-readme-stats)
