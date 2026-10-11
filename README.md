@@ -3,7 +3,7 @@
 </div-->
 <div id="badges"  align="center">
   <img src=https://img.shields.io/badge/Telegram-%40imaiow-blue?logo=telegram alt="Telegram Badge"/>
-  <img src=https://img.shields.io/badge/@E--mail-emmaria%40yandex.ru-darkgreen alt="E-mail Badge"/>
+  <!--img src=https://img.shields.io/badge/@E--mail-emmaria%40yandex.ru-darkgreen alt="E-mail Badge"/-->
 </div>
 
 - 👋 Hi, I’m a mobile apps developer
